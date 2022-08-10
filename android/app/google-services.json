@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "824208980827",
+    "project_id": "kodatel-45220",
+    "storage_bucket": "kodatel-45220.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824208980827:android:e4675e20df1f1a5144387e",
+        "android_client_info": {
+          "package_name": "com.example.kodatel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824208980827-0e8bjef3iu9bteov6kmqturma0cabru4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kodatel",
+            "certificate_hash": "6bedb5c9c71e447e8a0623b28e1ed15ad820a5dc"
+          }
+        },
+        {
+          "client_id": "824208980827-tk5kvkj32ta355pplbbj9b1n4dkleh9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATGB_HlA1LeWw6ogVcIOEpRXU6YtC8avM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824208980827-tk5kvkj32ta355pplbbj9b1n4dkleh9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
